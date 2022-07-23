@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, Мобильный  телефон, 10, phones
+2, Laptop, 3200, Ноутбук, 22, laptops
+3, Keyboard, 35, Клавиатура, 10, input
+4, Mouse, 10, Мышь, 40, input
+5, Pen, 1, Ручка, 90, office
+6, Notebook, 1, Блокнот, 100, office
